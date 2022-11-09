@@ -2,6 +2,10 @@
 
 Create password generator with certain criterias. The criterias are listed below:
 
+User should pick from 8-128 character length password. The user should then be asked if they want to use lower case, upper case, special charactesr or numbers in the new password. Any password length chosen that is less than 8 or greater than 128 will be rejected and asked again. If no option of lower case, upper case, special character or number is chosen, the question will be asked again and password will not be generated. Minimum requirement to run program: password length and confirm 1 choice lower, upper, special or number.
+
+
+
 
 The conditions as follows:
 
